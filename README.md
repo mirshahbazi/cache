@@ -1,3 +1,5 @@
+
+![Result](https://github.com/mirshahbazi/cache/help/app_result.png?raw=true)
 ## API
 
 - *Cache*
